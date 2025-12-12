@@ -13,7 +13,7 @@
 
 - 🔭 &nbsp;I’m currently working on **Web Projects**
 - 🌱 &nbsp;I’m currently learning **Advanced React & Cloud**
-- 💬 &nbsp;Ask me about **Javascript, PHP, Python**
+- 💬 &nbsp;Ask me about **Javascript, Typescript, Python**
 - 📫 &nbsp;How to reach me: **farhanfd.112003@email.com**
 
 <br clear="all">
@@ -33,8 +33,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />

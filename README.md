@@ -14,7 +14,7 @@
 - 🔭 &nbsp;I’m currently working on **Web Projects**
 - 🌱 &nbsp;I’m currently learning **Advanced React & Cloud**
 - 💬 &nbsp;Ask me about **Javascript, PHP, Python**
-- 📫 &nbsp;How to reach me: **farhan@email.com** (Ganti dengan email asli)
+- 📫 &nbsp;How to reach me: **farhanfd.112003@email.com**
 
 <br clear="all">
 <br>

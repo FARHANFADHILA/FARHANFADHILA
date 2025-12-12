@@ -9,9 +9,7 @@
   </a>
 </p>
 
-<a href="https://github.com/FARHANFADHILA">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=FARHANFADHILA&show_icons=true&theme=radical" />
-</a>
+
 
 - 🔭 &nbsp;I’m currently working on **Web Projects**
 - 🌱 &nbsp;I’m currently learning **Advanced React & Cloud**

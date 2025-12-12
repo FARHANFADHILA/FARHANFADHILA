@@ -1,22 +1,68 @@
-### 🛠️ Languages and Tools
+<h1 align="left" id="farhan-title">👋 Hi there! I'm Farhan</h1>
+<h3 align="left">Fullstack Developer | Tech Enthusiast | Open Source</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=FARHANFADHILA&color=blue" alt="page views" />
   
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <a href="https://github.com/FARHANFADHILA?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FARHANFADHILA?style=social">
+  </a>
 </p>
 
-### 🎧 My Vibe
-<a href="LINK_SPOTIFY_ANDA">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+<a href="https://github.com/FARHANFADHILA">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=FARHANFADHILA&show_icons=true&theme=radical" />
 </a>
 
+- 🔭 &nbsp;I’m currently working on **Web Projects**
+- 🌱 &nbsp;I’m currently learning **Advanced React & Cloud**
+- 💬 &nbsp;Ask me about **Javascript, PHP, Python**
+- 📫 &nbsp;How to reach me: **farhan@email.com** (Ganti dengan email asli)
+
+<br clear="all">
 <br>
-<img src="https://img.shields.io/badge/On_Repeat:_Numb_(Linkin_Park)-000000?style=flat-square&logo=spotify&logoColor=1ED760" />
-<img src="https://img.shields.io/badge/Mood:_Jpop_&_Rock-000000?style=flat-square&logo=apple-music&logoColor=white" />
+
+<h2 align="left">🚀 Favorite Tech</h2>
+<p>Tools, languages, and other things that I like to work with.</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">📊 Coding Activity</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARHANFADHILA&layout=compact&theme=radical" alt="Top Langs" />
+</p>

@@ -16,9 +16,6 @@
 - 💬 &nbsp;Ask me about **Javascript, Typescript, Python**
 - 📫 &nbsp;How to reach me: **farhanfd.112003@email.com**
 
-<br clear="all">
-<br>
-
 <h2 align="left">🚀 Favorite Tech</h2>
 <p>Tools, languages, and other things that I like to work with.</p>
 
